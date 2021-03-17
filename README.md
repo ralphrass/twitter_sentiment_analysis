@@ -13,6 +13,8 @@ The script apply the following steps in order to collect tweets from the oficial
 
 *Constraints*
 
+- Max of 100 tweets per request in reverse-chronogical order
+- Only the last 7 days tweets (recent search)
 - 450 requests per time window (15 min)
 - Check https://developer.twitter.com/en/docs/twitter-api/rate-limits
 
