@@ -1,6 +1,8 @@
 # twitter_sentiment_analysis
 Twitter API V2 consumption
 
+Make use of the Twitter Seach Tweets endpoint. See https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction.
+
 The script apply the following steps in order to collect tweets from the oficial Twitter API:
 
 1. Authorization and authentication through load_credentials function;
