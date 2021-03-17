@@ -14,12 +14,12 @@ The script apply the following steps in order to collect tweets from the oficial
 - 450 requests per time window (15 min)
 - Check https://developer.twitter.com/en/docs/twitter-api/rate-limits
 
-*Premises*:
+*Premises*
 
 - You have a valid and enabled account in http://developer.twitter.com
 - You have a project with an app and a Bearer token activated
 
-*Python requirements*:
+*Python requirements*
 
 - requests
 - pandas
