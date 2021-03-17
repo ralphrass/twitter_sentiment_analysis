@@ -11,7 +11,7 @@ The script apply the following steps in order to collect tweets from the oficial
 
 *Constraints*
 
-- 450 requests per limit time window (15 min)
+- 450 requests per time window (15 min)
 - Check https://developer.twitter.com/en/docs/twitter-api/rate-limits
 
 *Premises*:
