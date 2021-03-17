@@ -9,7 +9,12 @@ The script apply the following steps in order to collect tweets from the oficial
 4. Store results as CSV and JSON files at each loop and the full result at the end of the main loop.
 5. The algorithm tests wheather there is a "next token" available. In case this is positive, the loop keep sending requests. Otherwise, the loop ends.
 
-*Requirements*:
+*Premises*:
+
+- You have a valid and enabled account in http://developer.twitter.com
+- You have a project with an app and a Bearer token activated (Twitter API V2)
+
+*Python requirements*:
 
 - requests
 - pandas
